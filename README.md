@@ -1,6 +1,6 @@
 ## C:\user\Popolia ⎯ ❐ ⤬
 
-# Besoin d'assistance ?                       ⎯⠀❐⠀⤬
+# Besoin d'assistance ?                       
 
 Veuillez contacter un tech dans :
 
